@@ -12,7 +12,25 @@ The plugin does not create new Cotonti categories or modify the standard `page` 
 - The custom functions file must also be included: **[functions.custom.php](https://github.com/webitproff/functions.custom.php-cotonti)**
 - The latest plugin source code is available in the **[GitHub repository](https://github.com/webitproff/treecatspage_id-cotonti)**
 
----
+---  
+
+---  
+<img width="1920" height="1080" alt="Tree Cats Page ID is a plugin for Cotonti CMF by webitproff 001" src="https://github.com/user-attachments/assets/f85f0916-fce3-4a43-a6eb-5adf78b74783" />
+<img width="1920" height="1080" alt="Tree Cats Page ID is a plugin for Cotonti CMF by webitproff 002" src="https://github.com/user-attachments/assets/a94af835-61b5-40db-975d-d61c1e13bf31" />
+<img width="1920" height="1080" alt="Tree Cats Page ID is a plugin for Cotonti CMF by webitproff 003" src="https://github.com/user-attachments/assets/c7f0e5e7-00d8-46a7-8d79-aa72ee707165" />
+<img width="1920" height="1080" alt="Tree Cats Page ID is a plugin for Cotonti CMF by webitproff 004" src="https://github.com/user-attachments/assets/9813e53a-1a97-49bf-9d32-3eff74a36181" />
+<img width="1920" height="1080" alt="Tree Cats Page ID is a plugin for Cotonti CMF by webitproff 005" src="https://github.com/user-attachments/assets/ed9ad012-a61e-4d05-aded-304be73b1656" />
+<img width="1920" height="1080" alt="Tree Cats Page ID is a plugin for Cotonti CMF by webitproff 006" src="https://github.com/user-attachments/assets/e005fa45-27f0-4176-8394-b5e45a4b07e9" />
+<img width="1920" height="1072" alt="Tree Cats Page ID is a plugin for Cotonti CMF by webitproff 007" src="https://github.com/user-attachments/assets/cf1790af-068c-4900-a3f5-9b2e8a1c742f" />
+<img width="1216" height="922" alt="Tree Cats Page ID is a plugin for Cotonti CMF by webitproff 008" src="https://github.com/user-attachments/assets/f2e54dbe-e5d4-4b66-a382-3038ce535129" />
+<img width="1328" height="892" alt="Tree Cats Page ID is a plugin for Cotonti CMF by webitproff 009" src="https://github.com/user-attachments/assets/93f49821-3e2b-403c-b3c9-81833e0f5527" />
+<img width="1153" height="691" alt="Tree Cats Page ID is a plugin for Cotonti CMF by webitproff 010" src="https://github.com/user-attachments/assets/117be89e-4668-4742-a316-103f99a2c8c8" />
+<img width="1920" height="1080" alt="Tree Cats Page ID is a plugin for Cotonti CMF by webitproff 011" src="https://github.com/user-attachments/assets/7556da73-2959-4a34-a07a-13938c5080f2" />
+<img width="1920" height="1080" alt="Tree Cats Page ID is a plugin for Cotonti CMF by webitproff 012" src="https://github.com/user-attachments/assets/10580384-0132-4652-841e-ccfe18e5ed74" />
+
+---  
+
+
 
 ## Contents
 
